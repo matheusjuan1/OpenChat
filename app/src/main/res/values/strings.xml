@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">OpenChat</string>
+    <string name="cd_app_logo">Logo App</string>
+    <string name="title_activity_messages">MessagesActivity</string>
 </resources>
